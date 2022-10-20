@@ -1,6 +1,5 @@
 #VBA Challenge
 
-<<<<<<< HEAD
 #Overview of Project: Explain the purpose of this analysis.
 ##The purpose of the analysis is to find the daily volume of a stock throughout a given year and the rate of return on that stock.  The VBA code we created calculates the analysis and provides an easy to read summary.
 
